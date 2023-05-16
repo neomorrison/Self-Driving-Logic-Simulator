@@ -1,0 +1,17 @@
+D:\ProgramData\Microsoft\VisualStudio\repos\Self Driving\obj\Debug\net6.0-windows\Self Driving.csproj.AssemblyReference.cache
+D:\ProgramData\Microsoft\VisualStudio\repos\Self Driving\obj\Debug\net6.0-windows\Self_Driving.Form1.resources
+D:\ProgramData\Microsoft\VisualStudio\repos\Self Driving\obj\Debug\net6.0-windows\Self Driving.csproj.GenerateResource.cache
+D:\ProgramData\Microsoft\VisualStudio\repos\Self Driving\obj\Debug\net6.0-windows\Self Driving.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramData\Microsoft\VisualStudio\repos\Self Driving\obj\Debug\net6.0-windows\Self Driving.AssemblyInfoInputs.cache
+D:\ProgramData\Microsoft\VisualStudio\repos\Self Driving\obj\Debug\net6.0-windows\Self Driving.AssemblyInfo.cs
+D:\ProgramData\Microsoft\VisualStudio\repos\Self Driving\obj\Debug\net6.0-windows\Self Driving.csproj.CoreCompileInputs.cache
+D:\ProgramData\Microsoft\VisualStudio\repos\Self Driving\bin\Debug\net6.0-windows\Self Driving.exe
+D:\ProgramData\Microsoft\VisualStudio\repos\Self Driving\bin\Debug\net6.0-windows\Self Driving.deps.json
+D:\ProgramData\Microsoft\VisualStudio\repos\Self Driving\bin\Debug\net6.0-windows\Self Driving.runtimeconfig.json
+D:\ProgramData\Microsoft\VisualStudio\repos\Self Driving\bin\Debug\net6.0-windows\Self Driving.dll
+D:\ProgramData\Microsoft\VisualStudio\repos\Self Driving\bin\Debug\net6.0-windows\Self Driving.pdb
+D:\ProgramData\Microsoft\VisualStudio\repos\Self Driving\obj\Debug\net6.0-windows\Self Driving.dll
+D:\ProgramData\Microsoft\VisualStudio\repos\Self Driving\obj\Debug\net6.0-windows\refint\Self Driving.dll
+D:\ProgramData\Microsoft\VisualStudio\repos\Self Driving\obj\Debug\net6.0-windows\Self Driving.pdb
+D:\ProgramData\Microsoft\VisualStudio\repos\Self Driving\obj\Debug\net6.0-windows\Self Driving.genruntimeconfig.cache
+D:\ProgramData\Microsoft\VisualStudio\repos\Self Driving\obj\Debug\net6.0-windows\ref\Self Driving.dll
